@@ -1,0 +1,4 @@
+#Mon Feb 26 14:27:28 IST 2018
+base.0=E\:\\Data\\Kartik\\Study\\Android\\Rural Dev Hackathon\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

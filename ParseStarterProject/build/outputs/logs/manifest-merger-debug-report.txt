@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+MERGED from [com.github.pratikbutani:MultiSelectSpinner:08d324c987] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\MultiSelectSpinner-08d324c987.aar\2cbd646b2985c854263579a5ccfea2dc\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.rey5137:material:1.2.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\material-1.2.2.aar\47bf31aaf223b624a728e4fcc4e2221f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\4089b2a2d5da8cac4d717ce3d0051f67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\4a9f1b2d6ebb912fb79a2c4677e3ee0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\048d0e1cc02525d66132850b77ca6e53\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\32d40b6083eff1ea042bfd86a58e7d48\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\0b91fa1e95715c1b30240d2e650be5dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6b96bba73861b2bd6ce22e06de5e799b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\143c5a474b2e389f9cc6cebce9a9325f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f1ba96cf3818756aa6715795950ed0ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\fd29c842ff05c263720b00b9667c08ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\b3040cc602e3f2b76cbb4ee1113bc3eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\25ca534360a9374e5ac55ba4639f863e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c2cea45f28179d7d36fe089ef13b0369\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5847d579fed0cb605ed4f42553fa5d84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\4080518862832e2b8f1c42ff2079d3f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cca62ed23cfd86e25b7ea2b130d61b89\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+	package
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-40:19
+MERGED from [com.github.pratikbutani:MultiSelectSpinner:08d324c987] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\MultiSelectSpinner-08d324c987.aar\2cbd646b2985c854263579a5ccfea2dc\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.pratikbutani:MultiSelectSpinner:08d324c987] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\MultiSelectSpinner-08d324c987.aar\2cbd646b2985c854263579a5ccfea2dc\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\048d0e1cc02525d66132850b77ca6e53\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\048d0e1cc02525d66132850b77ca6e53\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\32d40b6083eff1ea042bfd86a58e7d48\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\32d40b6083eff1ea042bfd86a58e7d48\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:26:13-48
+activity#com.parse.starter.MainActivity
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:35:27-74
+activity#com.parse.starter.ResumeAndSkillsActivity
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:9-61
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:19-58
+activity#com.parse.starter.CounsellorListActivity
+ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:39:9-69
+	android:name
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:39:19-57
+uses-sdk
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.github.pratikbutani:MultiSelectSpinner:08d324c987] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\MultiSelectSpinner-08d324c987.aar\2cbd646b2985c854263579a5ccfea2dc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pratikbutani:MultiSelectSpinner:08d324c987] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\MultiSelectSpinner-08d324c987.aar\2cbd646b2985c854263579a5ccfea2dc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rey5137:material:1.2.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\material-1.2.2.aar\47bf31aaf223b624a728e4fcc4e2221f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rey5137:material:1.2.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\material-1.2.2.aar\47bf31aaf223b624a728e4fcc4e2221f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\4089b2a2d5da8cac4d717ce3d0051f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\4089b2a2d5da8cac4d717ce3d0051f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\4a9f1b2d6ebb912fb79a2c4677e3ee0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\4a9f1b2d6ebb912fb79a2c4677e3ee0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\048d0e1cc02525d66132850b77ca6e53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\048d0e1cc02525d66132850b77ca6e53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\32d40b6083eff1ea042bfd86a58e7d48\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\32d40b6083eff1ea042bfd86a58e7d48\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\0b91fa1e95715c1b30240d2e650be5dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\0b91fa1e95715c1b30240d2e650be5dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6b96bba73861b2bd6ce22e06de5e799b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6b96bba73861b2bd6ce22e06de5e799b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\143c5a474b2e389f9cc6cebce9a9325f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\143c5a474b2e389f9cc6cebce9a9325f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f1ba96cf3818756aa6715795950ed0ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f1ba96cf3818756aa6715795950ed0ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\fd29c842ff05c263720b00b9667c08ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\fd29c842ff05c263720b00b9667c08ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\b3040cc602e3f2b76cbb4ee1113bc3eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\b3040cc602e3f2b76cbb4ee1113bc3eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\25ca534360a9374e5ac55ba4639f863e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\25ca534360a9374e5ac55ba4639f863e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c2cea45f28179d7d36fe089ef13b0369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c2cea45f28179d7d36fe089ef13b0369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5847d579fed0cb605ed4f42553fa5d84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5847d579fed0cb605ed4f42553fa5d84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\4080518862832e2b8f1c42ff2079d3f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\4080518862832e2b8f1c42ff2079d3f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cca62ed23cfd86e25b7ea2b130d61b89\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cca62ed23cfd86e25b7ea2b130d61b89\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\048d0e1cc02525d66132850b77ca6e53\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\048d0e1cc02525d66132850b77ca6e53\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.2] C:\Users\kartik1\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\048d0e1cc02525d66132850b77ca6e53\AndroidManifest.xml:24:13-51
