@@ -13,10 +13,12 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.parse.FindCallback;
 import com.parse.GetDataCallback;
@@ -187,7 +189,7 @@ class CustomAdapter extends BaseAdapter{
     }
 
     @Override
-    public View getView(int i, View view, ViewGroup viewGroup) {
+    public View getView(final int i, View view, ViewGroup viewGroup) {
         LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         View row = inflater.inflate(R.layout.counsellor_list_row,viewGroup,false);
         TextView tvName = row.findViewById(R.id.tv_name);
@@ -202,6 +204,15 @@ class CustomAdapter extends BaseAdapter{
             ivProfile.setImageBitmap((Bitmap) temp.photo);
         }
 
+        row.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(context, ChatActivity.class);
+                intent.putExtra("username", list.get(i).name);
+                Toast.makeText(context, "" + list.get(i).name, Toast.LENGTH_SHORT).show();
+                context.startActivity(intent);
+            }
+        });
         return row;
     }
 

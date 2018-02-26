@@ -11,7 +11,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name=".StarterApplication"
@@ -36,7 +36,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ResumeAndSkillsActivity" />
-        <activity android:name=".CounsellorListActivity"></activity>
+        <activity android:name=".CounsellorListActivity" />
+        <activity android:name=".ChatActivity"></activity>
     </application>
 
 </manifest>

@@ -289,5 +289,8 @@ public class ResumeAndSkillsActivity extends AppCompatActivity {
                 getPhoto();
             }
         }
+        else{
+            getPhoto();
+        }
     }
 }
