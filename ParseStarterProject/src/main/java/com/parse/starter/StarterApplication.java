@@ -30,9 +30,9 @@ public class StarterApplication extends Application {
 
     // Add your initialization code here
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-            .applicationId("ADD_YOUR_OWN")
-            .clientKey("ADD_YOUR_OWN")
-            .server("ADD_YOUR_OWN")
+            .applicationId("")
+            .clientKey("")
+            .server("")
             .build()
     );
 

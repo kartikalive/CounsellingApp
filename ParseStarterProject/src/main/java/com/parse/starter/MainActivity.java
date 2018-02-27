@@ -107,6 +107,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                             Log.i("Signup", "Login successful");
                             Toast.makeText(MainActivity.this, "Login successful", Toast.LENGTH_SHORT).show();
+                            //Intent intent = new Intent(MainActivity.this,CounsellorListActivity.class);
                             Intent intent = new Intent(MainActivity.this,CounsellorListActivity.class);
                             startActivity(intent);
 
@@ -138,7 +139,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
       changeSignupModeTextView.setOnClickListener(this);
 
       if(ParseUser.getCurrentUser()!=null){
-          startActivity(new Intent(this, CounsellorListActivity.class));
+          startActivity(new Intent(this, WebViewActivity.class));
+          finish();
       }
 
 
