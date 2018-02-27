@@ -1,4 +1,19 @@
-#Mon Feb 26 14:27:28 IST 2018
-base.0=E\:\\Data\\Kartik\\Study\\Android\\Rural Dev Hackathon\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Mon Feb 26 23:12:02 IST 2018
+path.1=classes.dex
 path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
+base.5=/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/33
+base.4=/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/35
+base.3=/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/30
+base.2=/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/32
+base.1=/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/31
+base.0=/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/34
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

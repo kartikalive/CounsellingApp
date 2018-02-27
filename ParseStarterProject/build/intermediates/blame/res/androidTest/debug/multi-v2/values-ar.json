@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Data\\Kartik\\Study\\Android\\Rural Dev Hackathon\\Instagram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ar\\values-ar.xml",
+            "outputFile": "/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kartik1\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4080518862832e2b8f1c42ff2079d3f5\\res\\values-ar\\values-ar.xml",
+                    "source": "/Users/vikasmahato/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/09e8aec1da8bbbcb0fc05722d08826f4/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kartik1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4a9f1b2d6ebb912fb79a2c4677e3ee0d\\res\\values-ar\\values-ar.xml",
+                    "source": "/Users/vikasmahato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2bb99b278b09f36a31d46dff6b5e2287/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

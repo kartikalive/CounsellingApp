@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Data\\Kartik\\Study\\Android\\Rural Dev Hackathon\\Instagram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-my\\values-my.xml",
+            "outputFile": "/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-my/values-my.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kartik1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4a9f1b2d6ebb912fb79a2c4677e3ee0d\\res\\values-my\\values-my.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,1956",
-                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
-                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,2035"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\kartik1\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4080518862832e2b8f1c42ff2079d3f5\\res\\values-my\\values-my.xml",
+                    "source": "/Users/vikasmahato/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/09e8aec1da8bbbcb0fc05722d08826f4/res/values-my/values-my.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "2040",
                         "endColumns": "100",
                         "endOffsets": "2136"
+                    }
+                },
+                {
+                    "source": "/Users/vikasmahato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2bb99b278b09f36a31d46dff6b5e2287/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,1956",
+                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
+                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,2035"
                     }
                 }
             ]

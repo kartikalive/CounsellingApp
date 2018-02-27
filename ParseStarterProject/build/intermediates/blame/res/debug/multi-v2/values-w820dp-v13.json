@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Data\\Kartik\\Study\\Android\\Rural Dev Hackathon\\Instagram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "E:\\Data\\Kartik\\Study\\Android\\Rural Dev Hackathon\\Instagram\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "12",
                         "startColumns": "4",

@@ -14,12 +14,47 @@
         android:id="@+id/searchMultiSpinner"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="20dp"
         android:layout_marginTop="20dp" />
 
+    <ImageView
+        android:id="@+id/iv_uploaded_image"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_above="@+id/btn_upload_photo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:src="@mipmap/profile" />
+
     <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:id="@+id/btn_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_upload_photo"
+        android:layout_centerHorizontal="true"
+        android:onClick="confirmUpload"
+        android:layout_marginLeft="156dp"
+        android:layout_marginStart="156dp"
+        android:text="Confirm" />
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:id="@+id/btn_upload_photo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_find_counsellors"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="156dp"
+        android:layout_marginStart="156dp"
+        android:onClick="uploadPhoto"
+        android:text="Upload Photo" />
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
         android:id="@+id/btn_find_counsellors"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="false"
@@ -32,32 +67,4 @@
         android:onClick="findCounsellors"
         android:text="Find Counsellors" />
 
-    <Button
-        android:id="@+id/btn_upload_photo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/btn_find_counsellors"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="60dp"
-        android:onClick="uploadPhoto"
-        android:text="Upload Photo" />
-
-    <ImageView
-        android:id="@+id/iv_uploaded_image"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_above="@+id/btn_upload_photo"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="40dp"
-        app:srcCompat="@mipmap/ic_launcher" />
-
-    <Button
-        android:id="@+id/btn_confirm"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/btn_upload_photo"
-        android:layout_centerHorizontal="true"
-        android:onClick="confirmUpload"
-        android:text="Confirm" />
 </RelativeLayout>

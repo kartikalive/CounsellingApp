@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\Data\Kartik\Study\Android\Rural Dev Hackathon\Instagram\ParseStarterProject\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/vikasmahato/AndroidStudioProjects/CounsellingApp/ParseStarterProject/src/debug/shaders"/></dataSet></merger>

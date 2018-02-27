@@ -40,13 +40,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                 signUpModeActive = false;
                 signupButton.setText("Login");
-                changeSignupModeTextView.setText("Or, Signup");
+                changeSignupModeTextView.setText("Signup");
 
             } else {
 
                 signUpModeActive = true;
                 signupButton.setText("Signup");
-                changeSignupModeTextView.setText("Or, Login");
+                changeSignupModeTextView.setText("Login");
 
             }
 
