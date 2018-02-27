@@ -37,7 +37,8 @@
         </activity>
         <activity android:name=".ResumeAndSkillsActivity" />
         <activity android:name=".CounsellorListActivity" />
-        <activity android:name=".ChatActivity"></activity>
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".WebViewActivity"></activity>
     </application>
 
 </manifest>
